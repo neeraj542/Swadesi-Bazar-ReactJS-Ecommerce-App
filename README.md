@@ -20,7 +20,7 @@ https://swadesi-bazar.netlify.app/
 - Easily increase, decrease, or remove items from the cart.
 - Real-time updates for the cart total and item count.
 
-### Checkout
+### Checkout (will update soon)
 
 - A streamlined checkout process that calculates the total cost of items in the cart.
 - Allows users to enter shipping information and payment details.
