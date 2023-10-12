@@ -1,65 +1,70 @@
-# Swadesi Bazar - React E-Commerce Platform
+# Getting Started with Create React App
 
-Welcome to Swadesi Bazar, an open-source e-commerce platform built with React.js. Swadesi Bazar allows you to create a full-featured online shopping experience with features like product listing, a shopping cart, and a seamless checkout process.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# DEMO LINK: 
-https://swadesi-bazar.netlify.app/
+## Available Scripts
 
-<img width="958" alt="image" src="https://github.com/neeraj542/totalitycorp-frontend-challenge/assets/114648043/9f873db4-22f6-479c-a43a-2ac403293a1c">
+In the project directory, you can run:
 
-## Features
+### `npm start`
 
-### Product Listing
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- Display a wide range of products with images, product names, prices, and convenient "Add to Cart" buttons.
-- Implement product filters to enable users to sort and find products by category, price range, or ratings.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Shopping Cart
+### `npm test`
 
-- Users can view and manage the products they've added to their shopping cart.
-- Easily increase, decrease, or remove items from the cart.
-- Real-time updates for the cart total and item count.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Checkout (will update soon)
+### `npm run build`
 
-- A streamlined checkout process that calculates the total cost of items in the cart.
-- Allows users to enter shipping information and payment details.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Responsive Design
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- Swadesi Bazar is designed to be responsive and work seamlessly on both desktop and mobile devices.
-- The layout optimizes itself for various screen sizes.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Tech Stack
+### `npm run eject`
 
-- **Frontend Framework:** React.js
-- **Routing:** React Router
-- **Virtual DOM Rendering:** React DOM
-- **Styling:** Tailwind CSS
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Getting Started
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-1. Clone the repository to your local machine.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```bash
-git clone https://github.com/your-username/swadesi-bazar.git
-```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-2. Install dependencies using npm or yarn.
+## Learn More
 
-```bash
-npm install
-```
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-3. Start the development server.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-```bash
-npm run start
-```
+### Code Splitting
 
-4. Open your browser and access the app at
-http://localhost:3000
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
-Thank you for your interest in Swadesi Bazar, and we look forward to seeing your contributions!
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
